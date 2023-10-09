@@ -7,7 +7,7 @@ public class MainApp {
     }
 
     public static void sum(int a, int b) {
-        System.out.println(a + b);
+        System.out.println(a + b - 1);
     }
 
     public static void sum2(int a, int b, int c) {
